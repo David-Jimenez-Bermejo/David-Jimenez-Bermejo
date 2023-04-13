@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--
+Ver como ejemplo https://github.com/helleworldGIT
+-->
+
+<!--
 Cosas pendientes de aprender
 - Front End: Angular/Vue/React
 - Back End: Symfony/Laravel
